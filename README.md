@@ -3,7 +3,7 @@
 **ID**: CT12DS623
 **Domaia**: Java Programming
 **Duration**: 10th June to 10th August
-**Mentro**: G.Sravani
+**Mentor**: G.Sravani
 **Overview od the Poject**
 Project: Inventory Management System
 __Objective__:
