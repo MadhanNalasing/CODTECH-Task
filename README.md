@@ -3,7 +3,7 @@
 **ID**: CT12DS623
 **Domaia**: Java Programming
 **Duration**: 10th June to 10th August
-**Mentor**: G.Sravani
+**Mentor**: Neela Santhosh
 **Overview od the Poject**
 Project: Inventory Management System
 __Objective__:
